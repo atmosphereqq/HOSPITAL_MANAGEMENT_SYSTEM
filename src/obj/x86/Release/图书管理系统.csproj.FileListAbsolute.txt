@@ -1,0 +1,12 @@
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Release\图书管理系统.AlterPwdForm.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Release\图书管理系统.BorrowBooks.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Release\图书管理系统.FindBookForm.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Release\图书管理系统.新书入库Form.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Release\图书管理系统.LoginForm.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Release\图书管理系统.MainForm.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Release\图书管理系统.Properties.Resources.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Release\图书管理系统.ReturnBooks.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Release\图书管理系统.UpdateIndivForm.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Release\图书管理系统.csproj.GenerateResource.Cache
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Release\图书管理系统.csproj.CoreCompileInputs.cache
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Release\图书管理系统.csprojResolveAssemblyReference.cache

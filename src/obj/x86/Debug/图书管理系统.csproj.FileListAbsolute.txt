@@ -1,0 +1,137 @@
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统\图书管理系统\bin\Debug\图书管理系统.exe
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统\图书管理系统\bin\Debug\图书管理系统.pdb
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.LoginForm.resources
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.Properties.Resources.resources
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.csproj.GenerateResource.Cache
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.exe
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.pdb
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统\图书管理系统\bin\Debug\图书管理系统.exe.config
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统\图书管理系统\obj\x86\Debug\图书管理系统.MainForm.resources
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.exe.config
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.exe
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.pdb
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.exe
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.pdb
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.LoginForm.resources
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.MainForm.resources
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.Properties.Resources.resources
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.csproj.GenerateResource.Cache
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.BorrowBooks.resources
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.FindBookForm.resources
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.UpdateIndivForm.resources
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.新书入库Form.resources
+C:\Users\光\Desktop\1406111035-杨光-数据库课程设计\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.ReturnBooks.resources
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.exe.config
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.exe
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.pdb
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.exe
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.pdb
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.AlterPwdForm.resources
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.BorrowBooks.resources
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.FindBookForm.resources
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.新书入库Form.resources
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.LoginForm.resources
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.MainForm.resources
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.Properties.Resources.resources
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.ReturnBooks.resources
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.UpdateIndivForm.resources
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.csproj.GenerateResource.Cache
+C:\Users\光\Desktop\2016-6-10\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.exe.config
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.exe
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.pdb
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.exe
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.pdb
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.AlterPwdForm.resources
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.BorrowBooks.resources
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.FindBookForm.resources
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.新书入库Form.resources
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.LoginForm.resources
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.MainForm.resources
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.Properties.Resources.resources
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.ReturnBooks.resources
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.UpdateIndivForm.resources
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\acer\Desktop\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.exe.config
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.exe
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.pdb
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.exe
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\bin\Debug\图书管理系统.pdb
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.AlterPwdForm.resources
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.BorrowBooks.resources
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.FindBookForm.resources
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.新书入库Form.resources
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.LoginForm.resources
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.MainForm.resources
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.Properties.Resources.resources
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.ReturnBooks.resources
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\图书管理系统.UpdateIndivForm.resources
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\acer\Desktop\2016.6.12-副本\图书管理系统 - 副本\图书管理系统\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\bin\Debug\图书管理系统.exe.config
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.exe
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.pdb
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\bin\Debug\图书管理系统.exe
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\bin\Debug\图书管理系统.pdb
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.AlterPwdForm.resources
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.BorrowBooks.resources
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.FindBookForm.resources
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.新书入库Form.resources
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.LoginForm.resources
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.MainForm.resources
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.Properties.Resources.resources
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.ReturnBooks.resources
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.UpdateIndivForm.resources
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\acer\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\bin\Debug\图书管理系统.exe.config
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.exe
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.pdb
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\bin\Debug\图书管理系统.exe
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\bin\Debug\图书管理系统.pdb
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.csprojResolveAssemblyReference.cache
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.AlterPwdForm.resources
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.BorrowBooks.resources
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.FindBookForm.resources
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.新书入库Form.resources
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.LoginForm.resources
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.MainForm.resources
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.Properties.Resources.resources
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.ReturnBooks.resources
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.UpdateIndivForm.resources
+C:\Users\光\Desktop\杨光-数据库课程设计\图书管理系统 - 源代码\图书管理系统\obj\x86\Debug\图书管理系统.csproj.GenerateResource.Cache
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\图书管理系统.exe.config
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\图书管理系统.exe
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\图书管理系统.pdb
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Debug\图书管理系统.csprojResolveAssemblyReference.cache
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Debug\图书管理系统.AlterPwdForm.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Debug\图书管理系统.BorrowBooks.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Debug\图书管理系统.FindBookForm.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Debug\图书管理系统.新书入库Form.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Debug\图书管理系统.LoginForm.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Debug\图书管理系统.MainForm.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Debug\图书管理系统.Properties.Resources.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Debug\图书管理系统.ReturnBooks.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Debug\图书管理系统.UpdateIndivForm.resources
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Debug\图书管理系统.csproj.GenerateResource.Cache
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Debug\图书管理系统.csproj.CoreCompileInputs.cache
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Debug\图书管理系统.exe
+Z:\githubCodes\BooK-Library-System\图书管理系统\obj\x86\Debug\图书管理系统.pdb
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\MySql.Data.dll
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\MySql.Data.Entity.EF6.dll
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\MySql.Web.dll
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\MySql.Data.xml
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\MySql.Data.Entity.EF6.xml
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\MySql.Web.xml
+Z:\githubCodes\BooK-Library-System\图书管理系统\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.Design.resources.dll
